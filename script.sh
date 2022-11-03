@@ -1,5 +1,6 @@
-# Inspired from https://stackoverflow.com/a/71034328
-# Inspired from https://github.com/shahzaib-sheikh/replace-env-vars/blob/master/replace-env-vars.sh
+# Inspired from:
+# - https://stackoverflow.com/a/71034328
+# - https://github.com/shahzaib-sheikh/replace-env-vars/blob/master/replace-env-vars.sh
 
 if [ $# -eq 2 ]; then
     echo "[+] Building enviroment variables"
